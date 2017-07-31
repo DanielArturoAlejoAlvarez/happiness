@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yourmediasoft@gmail.com"]
 
   spec.summary       = %q{Gem Happiness created with Ruby, used to simplify text for a better view and design (short-text, truncate, minitext)}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/DanielArturoAlejoAlvarez/happiness"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
